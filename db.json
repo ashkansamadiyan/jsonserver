@@ -1,0 +1,153 @@
+{
+   "messages": [
+      { "id": 1, "sender": "John", "content": "Hey there!", "time": "10:00 AM", "isSent": false },
+      { "id": 2, "sender": "You", "content": "Hi John! How are you?", "time": "10:01 AM", "isSent": true },
+      { "id": 3, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
+      { "id": 4, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
+      { "id": 5, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
+      { "id": 6, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
+      { "id": 7, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
+      { "id": 8, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
+      { "id": 9, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
+      { "id": 10, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
+      { "id": 13, "sender": "John", "content": "I'm doing great, dslf jks djflkdsj flkdsflk dshkjfskdh aksd jlaks djlkasjdlkasjkl thanks for asking!", "time": "10:02 AM", "isSent": false },
+      { "id": 14, "sender": "You", "content": "That's wonderful to hear. Any plans for the weekend?", "time": "10:03 AM", "isSent": true }
+   ],
+   "chats": [
+      {
+         "id": 1,
+         "name": "Alice Johnson",
+         "avatar": "/avatars/alice.jpg",
+         "lastMessage": "Hey, are we still on for lunch?",
+         "timestamp": { "date": "18/12/2024", "time": "10:23 AM" },
+         "unreadCount": 2,
+         "online": true
+      },
+      {
+         "id": 2,
+         "name": "Bob Smith",
+         "avatar": "/avatars/bob.jpg",
+         "lastMessage": "I've sent you the report.",
+         "timestamp": { "date": "17/12/2024", "time": "02:45 PM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 3,
+         "name": "Charlie Davis",
+         "avatar": "/avatars/charlie.jpg",
+         "lastMessage": "Call me when you're free.",
+         "timestamp": { "date": "20/12/2024", "time": "09:15 AM" },
+         "unreadCount": 1,
+         "online": true
+      },
+      {
+         "id": 4,
+         "name": "Diana Moore",
+         "avatar": "/avatars/diana.jpg",
+         "lastMessage": "Got it, thanks!",
+         "timestamp": { "date": "18/12/2024", "time": "06:30 PM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 5,
+         "name": "Ethan Brown",
+         "avatar": "/avatars/ethan.jpg",
+         "lastMessage": "When's the deadline again?",
+         "timestamp": { "date": "20/12/2024", "time": "11:50 AM" },
+         "unreadCount": 3,
+         "online": true
+      },
+      {
+         "id": 6,
+         "name": "Fiona White",
+         "avatar": "/avatars/fiona.jpg",
+         "lastMessage": "Just saw your email, will reply soon.",
+         "timestamp": { "date": "17/12/2024", "time": "08:10 PM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 7,
+         "name": "George Wilson",
+         "avatar": "/avatars/george.jpg",
+         "lastMessage": "Don't forget about the meeting tomorrow.",
+         "timestamp": { "date": "20/12/2024", "time": "07:45 AM" },
+         "unreadCount": 1,
+         "online": true
+      },
+      {
+         "id": 8,
+         "name": "Hannah Lee",
+         "avatar": "/avatars/hannah.jpg",
+         "lastMessage": "See you soon!",
+         "timestamp": { "date": "19/12/2024", "time": "01:30 PM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 9,
+         "name": "Ian Scott",
+         "avatar": "/avatars/ian.jpg",
+         "lastMessage": "Check the document I shared with you earlier. Check the document I shared with you earlier.Check the document I shared with you earlier.Check the document I shared with you earlier.",
+         "timestamp": { "date": "20/12/2024", "time": "05:15 PM" },
+         "unreadCount": 4,
+         "online": true
+      },
+      {
+         "id": 10,
+         "name": "Julia Adams",
+         "avatar": "/avatars/julia.jpg",
+         "lastMessage": "Let's reschedule our meeting.",
+         "timestamp": { "date": "18/12/2024", "time": "10:50 AM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 11,
+         "name": "Kevin Clark",
+         "avatar": "/avatars/kevin.jpg",
+         "lastMessage": "Thanks for the update!",
+         "timestamp": { "date": "20/12/2024", "time": "04:40 PM" },
+         "unreadCount": 2,
+         "online": true
+      },
+      {
+         "id": 12,
+         "name": "Laura Hill",
+         "avatar": "/avatars/laura.jpg",
+         "lastMessage": "Did you get my message?",
+         "timestamp": { "date": "19/12/2024", "time": "11:15 AM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 13,
+         "name": "Michael Taylor",
+         "avatar": "/avatars/michael.jpg",
+         "lastMessage": "I'll be there in 5 minutes.",
+         "timestamp": { "date": "20/12/2024", "time": "09:05 AM" },
+         "unreadCount": 1,
+         "online": true
+      },
+      {
+         "id": 14,
+         "name": "Nina Harris",
+         "avatar": "/avatars/nina.jpg",
+         "lastMessage": "Can we discuss this tomorrow?",
+         "timestamp": { "date": "18/12/2024", "time": "07:25 PM" },
+         "unreadCount": 0,
+         "online": false
+      },
+      {
+         "id": 15,
+         "name": "Oscar Martinez",
+         "avatar": "/avatars/oscar.jpg",
+         "lastMessage": "Sure, I'll handle it.",
+         "timestamp": { "date": "20/12/2024", "time": "02:30 PM" },
+         "unreadCount": 3,
+         "online": true
+      }
+   ]
+}
