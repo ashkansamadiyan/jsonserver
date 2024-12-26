@@ -17,7 +17,7 @@
       {
          "id": 1,
          "name": "Alice Johnson",
-         "avatar": "/avatars/alice.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Hey, are we still on for lunch?",
          "timestamp": { "date": "18/12/2024", "time": "10:23 AM" },
          "unreadCount": 2,
@@ -26,7 +26,7 @@
       {
          "id": 2,
          "name": "Bob Smith",
-         "avatar": "/avatars/bob.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "I've sent you the report.",
          "timestamp": { "date": "17/12/2024", "time": "02:45 PM" },
          "unreadCount": 0,
@@ -35,7 +35,7 @@
       {
          "id": 3,
          "name": "Charlie Davis",
-         "avatar": "/avatars/charlie.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Call me when you're free.",
          "timestamp": { "date": "20/12/2024", "time": "09:15 AM" },
          "unreadCount": 1,
@@ -44,7 +44,7 @@
       {
          "id": 4,
          "name": "Diana Moore",
-         "avatar": "/avatars/diana.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Got it, thanks!",
          "timestamp": { "date": "18/12/2024", "time": "06:30 PM" },
          "unreadCount": 0,
@@ -53,7 +53,7 @@
       {
          "id": 5,
          "name": "Ethan Brown",
-         "avatar": "/avatars/ethan.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "When's the deadline again?",
          "timestamp": { "date": "20/12/2024", "time": "11:50 AM" },
          "unreadCount": 3,
@@ -62,7 +62,7 @@
       {
          "id": 6,
          "name": "Fiona White",
-         "avatar": "/avatars/fiona.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Just saw your email, will reply soon.",
          "timestamp": { "date": "17/12/2024", "time": "08:10 PM" },
          "unreadCount": 0,
@@ -71,7 +71,7 @@
       {
          "id": 7,
          "name": "George Wilson",
-         "avatar": "/avatars/george.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Don't forget about the meeting tomorrow.",
          "timestamp": { "date": "20/12/2024", "time": "07:45 AM" },
          "unreadCount": 1,
@@ -80,7 +80,7 @@
       {
          "id": 8,
          "name": "Hannah Lee",
-         "avatar": "/avatars/hannah.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "See you soon!",
          "timestamp": { "date": "19/12/2024", "time": "01:30 PM" },
          "unreadCount": 0,
@@ -89,7 +89,7 @@
       {
          "id": 9,
          "name": "Ian Scott",
-         "avatar": "/avatars/ian.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Check the document I shared with you earlier. Check the document I shared with you earlier.Check the document I shared with you earlier.Check the document I shared with you earlier.",
          "timestamp": { "date": "20/12/2024", "time": "05:15 PM" },
          "unreadCount": 4,
@@ -98,7 +98,7 @@
       {
          "id": 10,
          "name": "Julia Adams",
-         "avatar": "/avatars/julia.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Let's reschedule our meeting.",
          "timestamp": { "date": "18/12/2024", "time": "10:50 AM" },
          "unreadCount": 0,
@@ -107,7 +107,7 @@
       {
          "id": 11,
          "name": "Kevin Clark",
-         "avatar": "/avatars/kevin.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Thanks for the update!",
          "timestamp": { "date": "20/12/2024", "time": "04:40 PM" },
          "unreadCount": 2,
@@ -116,7 +116,7 @@
       {
          "id": 12,
          "name": "Laura Hill",
-         "avatar": "/avatars/laura.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Did you get my message?",
          "timestamp": { "date": "19/12/2024", "time": "11:15 AM" },
          "unreadCount": 0,
@@ -125,7 +125,7 @@
       {
          "id": 13,
          "name": "Michael Taylor",
-         "avatar": "/avatars/michael.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "I'll be there in 5 minutes.",
          "timestamp": { "date": "20/12/2024", "time": "09:05 AM" },
          "unreadCount": 1,
@@ -134,7 +134,7 @@
       {
          "id": 14,
          "name": "Nina Harris",
-         "avatar": "/avatars/nina.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Can we discuss this tomorrow?",
          "timestamp": { "date": "18/12/2024", "time": "07:25 PM" },
          "unreadCount": 0,
@@ -143,7 +143,7 @@
       {
          "id": 15,
          "name": "Oscar Martinez",
-         "avatar": "/avatars/oscar.jpg",
+         "avatar": "https://picsum.photos/500",
          "lastMessage": "Sure, I'll handle it.",
          "timestamp": { "date": "20/12/2024", "time": "02:30 PM" },
          "unreadCount": 3,
