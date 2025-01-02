@@ -1,17 +1,35 @@
 {
    "messages": [
-      { "id": 1, "sender": "John", "content": "Hey there!", "time": "10:00 AM", "isSent": false },
-      { "id": 2, "sender": "You", "content": "Hi John! How are you?", "time": "10:01 AM", "isSent": true },
-      { "id": 3, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
-      { "id": 4, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
-      { "id": 5, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
-      { "id": 6, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
-      { "id": 7, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
-      { "id": 8, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
-      { "id": 9, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": true },
-      { "id": 10, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
-      { "id": 13, "sender": "John", "content": "I'm doing great, dslf jks djflkdsj flkdsflk dshkjfskdh aksd jlaks djlkasjdlkasjkl thanks for asking!", "time": "10:02 AM", "isSent": false },
-      { "id": 14, "sender": "You", "content": "That's wonderful to hear. Any plans for the weekend?", "time": "10:03 AM", "isSent": true }
+  { "id": 1, "sender": "John", "content": "Hey there!", "time": "10:00 AM", "isSent": false },
+    { "id": 2, "sender": "You", "content": "Hi John! How are you?", "time": "10:01 AM", "isSent": true },
+    { "id": 3, "sender": "John", "content": "I'm doing great, thanks for asking!", "time": "10:02 AM", "isSent": false },
+    { "id": 4, "sender": "John", "content": "Have you seen the new movie?", "time": "10:05 AM", "isSent": false },
+    { "id": 5, "sender": "You", "content": "Not yet, but it’s on my list!", "time": "10:06 AM", "isSent": true },
+    { "id": 6, "sender": "John", "content": "You should! It's amazing.", "time": "10:07 AM", "isSent": false },
+    { "id": 7, "sender": "You", "content": "I’ll check it out this weekend.", "time": "10:08 AM", "isSent": true },
+    { "id": 8, "sender": "John", "content": "Cool, let me know what you think.", "time": "10:09 AM", "isSent": false },
+    { "id": 9, "sender": "You", "content": "Will do! By the way, how's work?", "time": "10:10 AM", "isSent": true },
+    { "id": 10, "sender": "John", "content": "Busy but good! Lots of deadlines.", "time": "10:11 AM", "isSent": false },
+    { "id": 11, "sender": "You", "content": "Hang in there! You’ve got this.", "time": "10:12 AM", "isSent": true },
+    { "id": 12, "sender": "John", "content": "Thanks! What about you?", "time": "10:13 AM", "isSent": false },
+    { "id": 13, "sender": "You", "content": "Same here, just taking it one day at a time.", "time": "10:14 AM", "isSent": true },
+    { "id": 14, "sender": "John", "content": "That’s the best way to go about it.", "time": "10:15 AM", "isSent": false },
+    { "id": 15, "sender": "John", "content": "By the way, did you see the game last night?", "time": "10:16 AM", "isSent": false },
+    { "id": 16, "sender": "You", "content": "No, missed it. Was it good?", "time": "10:17 AM", "isSent": true },
+    { "id": 17, "sender": "John", "content": "Absolutely! It was a nail-biter.", "time": "10:18 AM", "isSent": false },
+    { "id": 18, "sender": "You", "content": "Wish I’d caught it. Who won?", "time": "10:19 AM", "isSent": true },
+    { "id": 19, "sender": "John", "content": "Our team! Barely scraped through.", "time": "10:20 AM", "isSent": false },
+    { "id": 20, "sender": "You", "content": "That’s awesome! We needed a win.", "time": "10:21 AM", "isSent": true },
+    { "id": 21, "sender": "John", "content": "Yeah, it was a much-needed morale boost.", "time": "10:22 AM", "isSent": false },
+    { "id": 22, "sender": "You", "content": "For sure. Let’s catch the next game together!", "time": "10:23 AM", "isSent": true },
+    { "id": 23, "sender": "John", "content": "Sounds like a plan!", "time": "10:24 AM", "isSent": false },
+    { "id": 24, "sender": "You", "content": "Alright, I’ll text you the details later.", "time": "10:25 AM", "isSent": true },
+    { "id": 25, "sender": "John", "content": "Cool. Gotta run, talk soon!", "time": "10:26 AM", "isSent": false },
+    { "id": 26, "sender": "You", "content": "Later, take care!", "time": "10:27 AM", "isSent": true },
+    { "id": 27, "sender": "John", "content": "Bye!", "time": "10:28 AM", "isSent": false },
+    { "id": 28, "sender": "You", "content": "See you later!", "time": "10:29 AM", "isSent": true },
+    { "id": 29, "sender": "John", "content": "Catch you soon!", "time": "10:30 AM", "isSent": false },
+    { "id": 30, "sender": "You", "content": "Will do, take care.", "time": "10:31 AM", "isSent": true }
    ],
    "chats": [
       {
@@ -85,69 +103,6 @@
          "timestamp": { "date": "19/12/2024", "time": "01:30 PM" },
          "unreadCount": 0,
          "online": false
-      },
-      {
-         "id": 9,
-         "name": "Ian Scott",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Check the document I shared with you earlier. Check the document I shared with you earlier.Check the document I shared with you earlier.Check the document I shared with you earlier.",
-         "timestamp": { "date": "20/12/2024", "time": "05:15 PM" },
-         "unreadCount": 4,
-         "online": true
-      },
-      {
-         "id": 10,
-         "name": "Julia Adams",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Let's reschedule our meeting.",
-         "timestamp": { "date": "18/12/2024", "time": "10:50 AM" },
-         "unreadCount": 0,
-         "online": false
-      },
-      {
-         "id": 11,
-         "name": "Kevin Clark",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Thanks for the update!",
-         "timestamp": { "date": "20/12/2024", "time": "04:40 PM" },
-         "unreadCount": 2,
-         "online": true
-      },
-      {
-         "id": 12,
-         "name": "Laura Hill",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Did you get my message?",
-         "timestamp": { "date": "19/12/2024", "time": "11:15 AM" },
-         "unreadCount": 0,
-         "online": false
-      },
-      {
-         "id": 13,
-         "name": "Michael Taylor",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "I'll be there in 5 minutes.",
-         "timestamp": { "date": "20/12/2024", "time": "09:05 AM" },
-         "unreadCount": 1,
-         "online": true
-      },
-      {
-         "id": 14,
-         "name": "Nina Harris",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Can we discuss this tomorrow?",
-         "timestamp": { "date": "18/12/2024", "time": "07:25 PM" },
-         "unreadCount": 0,
-         "online": false
-      },
-      {
-         "id": 15,
-         "name": "Oscar Martinez",
-         "avatar": "https://random-image-pepebigotes.vercel.app/api/random-image",
-         "lastMessage": "Sure, I'll handle it.",
-         "timestamp": { "date": "20/12/2024", "time": "02:30 PM" },
-         "unreadCount": 3,
-         "online": true
       }
    ]
 }
